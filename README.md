@@ -1,6 +1,6 @@
 # Tempe Traffic Crash Dashboard
 
-Live app: https://benramirez.shinyapps.io/Lab07_DashboardProject_Ramirez/
+https://benram3737.shinyapps.io/Tempe_Crash_Dashboard/
 
 This is an interactive dashboard I built in R that maps traffic crash reports in Tempe, AZ. Every crash is plotted on a map and colored by severity, so you can see where crashes happen and which ones caused harm.
 
